@@ -5,7 +5,9 @@ html {
     text-align: center;
 }
 
-#title {
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:700');
+.title {
+    font-family: "Open Sans", sans-serif;
     font-weight: bold;
     color: white;
     background-color: lightskyblue;
