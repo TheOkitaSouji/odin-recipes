@@ -24,3 +24,20 @@ img {
     display:block;
     margin:auto;
 }
+.middle {
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    border: 10px solid white;
+}
+.bottom {
+    text-align: center;
+}
+.list {
+    list-style-position: inside;
+    display: inline-block;
+    border: 16px dotted lightblue;
+    padding: 16px;
+    text-align: left;
+}
